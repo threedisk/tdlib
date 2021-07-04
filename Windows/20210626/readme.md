@@ -7,5 +7,5 @@ Sabtu, 26 Juni 2021.
 
 ## Kontributor
 
-Hanif Dwy Putra S
-tg: [@hanifdwyputra](https://t.me/hanifdwyputra)
+- [Hanif Dwy Putra S](https://github.com/hansputera)
+- tg: [@hanifdwyputra](https://t.me/hanifdwyputra)
