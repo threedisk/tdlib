@@ -18,6 +18,12 @@ berisi nama file dan `readme.md` yang berisi keterangan :
 - tanggal build
 - info siapa builder nya (optional)
 
+### Sample
+
+#### Bot
+
+- [HSubot](https://github.com/banghasan/hsubot)
+
 ### Kontribusi
 
 Siapapun boleh ya
