@@ -34,4 +34,4 @@ Bisa cek di : [https://github.com/ForNeVeR/tdlib.native/releases](https://github
 
 ### Kontribusi
 
-Siapapun boleh ya
+Ingin berkontribusi, bisa ikuti petunjuk build [https://tdlib.github.io/td/build.html](https://tdlib.github.io/td/build.html)
