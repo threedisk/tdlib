@@ -1,6 +1,6 @@
 ## TDlib
 
-Kumpulan tdlib hasil build berbagai OS dan versi.
+Kolkesi tdlib yang telah di-build.
 
 ### Struktur
 
@@ -23,6 +23,10 @@ berisi nama file dan `readme.md` yang berisi keterangan :
 #### Bot
 
 - [HSubot](https://github.com/banghasan/hsubot)
+
+#### Framework
+
+- [AirGram](https://airgram.netlify.app/)
 
 ### Kontribusi
 
