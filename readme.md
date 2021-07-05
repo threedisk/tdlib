@@ -1,6 +1,6 @@
 ## TDlib
 
-Kolkesi tdlib yang telah di-build.
+Koleksi [tdlib](https://github.com/tdlib/td) yang telah di-build.
 
 ### Struktur
 
@@ -18,7 +18,11 @@ berisi nama file dan `readme.md` yang berisi keterangan :
 - tanggal build
 - info siapa builder nya (optional)
 
-### Sample
+### Sumber Lain
+
+Bisa cek di : [https://github.com/ForNeVeR/tdlib.native/releases](https://github.com/ForNeVeR/tdlib.native/releases)
+
+### Penggunaan
 
 #### Bot
 

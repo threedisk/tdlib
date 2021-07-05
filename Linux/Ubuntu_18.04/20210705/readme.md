@@ -1,6 +1,7 @@
 ## Release
 
 OS Ubuntu 18.04
+
 Senin, 5 Juli 2021
 
 ### Source
@@ -9,4 +10,4 @@ Senin, 5 Juli 2021
 
 ### Kontributor
 
-- [Mas Tris](https://github.com/onsirtus)
+- [Mas Tris](https://t.me/onsirtus)
